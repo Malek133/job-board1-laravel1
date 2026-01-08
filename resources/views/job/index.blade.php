@@ -1,3 +1,5 @@
+<x-layout title="all job">
+
 <div>
     <h1>Job Listings</h1>
     <p>Welcome to the job board! Here are the latest job listings.</p>
@@ -11,3 +13,5 @@
             </li>
         @endforeach
 </div>
+
+</x-layout>
